@@ -8,7 +8,7 @@ This is a **Content-Based Movie Recommender System** built using **Streamlit**, 
 
 ## 🚀 Live Demo
 
-👉 [Click here to try the app](https://movierecommender-5bvzn2wsg4bzu2qg6qbmea.streamlit.app/)
+👉 [Click here to try the app](https://movierecommender-gzhwls6dqnu9jk3tzkgflb.streamlit.app/)
 
 ---
 
@@ -31,6 +31,7 @@ This is a **Content-Based Movie Recommender System** built using **Streamlit**, 
 - Pickle (for saving precomputed data)
 
 ---
+
 
 
 
